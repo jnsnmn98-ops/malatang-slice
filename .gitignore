@@ -1,0 +1,5 @@
+# Only the built game is published (GitHub Pages serves index.html).
+# Sources, backups, images and local settings stay on this computer.
+*
+!.gitignore
+!index.html
